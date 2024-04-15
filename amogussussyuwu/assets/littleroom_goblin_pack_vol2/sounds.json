@@ -1,0 +1,172 @@
+{
+   "littleroom.goblinpackvol2.footstep":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/footstep_1",
+			"littleroom/goblinpack_vol2/footstep_2",
+			"littleroom/goblinpack_vol2/footstep_3"
+		 ]
+	},
+   "littleroom.goblinpackvol2.swing":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/swing_1",
+			"littleroom/goblinpack_vol2/swing_2",
+			"littleroom/goblinpack_vol2/swing_3"
+		 ]
+	},
+   "littleroom.goblinpackvol2.shield_impact":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/shield_impact_1",
+			"littleroom/goblinpack_vol2/shield_impact_2"
+		 ]
+	},
+   "littleroom.goblinpackvol2.frying_pan_impact":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/frying_pan_impact_1",
+			"littleroom/goblinpack_vol2/frying_pan_impact_2"
+		 ]
+	},
+   "littleroom.goblinpackvol2.knife_impact":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/knife_impact_1",
+			"littleroom/goblinpack_vol2/knife_impact_2"
+		 ]
+	},
+   "littleroom.goblinpackvol2.shaman_teleport":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/shaman_teleport"
+		 ]
+	},
+   "littleroom.goblinpackvol2.shaman_doppelganger":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/shaman_doppelganger"
+		 ]
+	},
+   "littleroom.goblinpackvol2.shaman_projectile":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/shaman_projectile"
+		 ]
+	},
+   "littleroom.goblinpackvol2.shaman_heal":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/shaman_heal"
+		 ]
+	},
+   "littleroom.goblinpackvol2.bow_pull":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/bow_pull_1",
+			"littleroom/goblinpack_vol2/bow_pull_2"
+		 ]
+	},
+   "littleroom.goblinpackvol2.bow_shoot":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/bow_shoot_1",
+			"littleroom/goblinpack_vol2/bow_shoot_2"
+		 ]
+	},
+   "littleroom.goblinpackvol2.vox_fidget":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/vox_fidget_1",
+			"littleroom/goblinpack_vol2/vox_fidget_2",
+			"littleroom/goblinpack_vol2/vox_fidget_3"
+		 ]
+	},
+   "littleroom.goblinpackvol2.vox_flail":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/vox_flail_1",
+			"littleroom/goblinpack_vol2/vox_flail_2",
+			"littleroom/goblinpack_vol2/vox_flail_3",
+			"littleroom/goblinpack_vol2/vox_flail_4"
+		 ]
+	},
+   "littleroom.goblinpackvol2.vox_grunt":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/vox_grunt_1",
+			"littleroom/goblinpack_vol2/vox_grunt_2",
+			"littleroom/goblinpack_vol2/vox_grunt_3",
+			"littleroom/goblinpack_vol2/vox_grunt_4",
+			"littleroom/goblinpack_vol2/vox_grunt_5"
+		 ]
+	},
+   "littleroom.goblinpackvol2.vox_land":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/vox_land_1",
+			"littleroom/goblinpack_vol2/vox_land_2",
+			"littleroom/goblinpack_vol2/vox_land_3"
+		 ]
+	},
+   "littleroom.goblinpackvol2.vox_laugh":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/vox_laugh_1",
+			"littleroom/goblinpack_vol2/vox_laugh_2",
+			"littleroom/goblinpack_vol2/vox_laugh_3"
+		 ]
+	},
+   "littleroom.goblinpackvol2.vox_scream":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/vox_scream_1",
+			"littleroom/goblinpack_vol2/vox_scream_2"
+		 ]
+	},
+   "littleroom.goblinpackvol2.vox_swing":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/vox_swing_1",
+			"littleroom/goblinpack_vol2/vox_swing_2",
+			"littleroom/goblinpack_vol2/vox_swing_3",
+			"littleroom/goblinpack_vol2/vox_swing_4"
+		 ]
+	},
+   "littleroom.goblinpackvol2.ground_impact":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/ground_impact_1",
+			"littleroom/goblinpack_vol2/ground_impact_2",
+			"littleroom/goblinpack_vol2/ground_impact_3",
+			"littleroom/goblinpack_vol2/ground_impact_4"
+		 ]
+	},
+   "littleroom.goblinpackvol2.vox_king_fidget":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/vox_king_fidget"
+		 ]
+	},
+   "littleroom.goblinpackvol2.vox_king_grunt":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/vox_king_grunt_1",
+			"littleroom/goblinpack_vol2/vox_king_grunt_2",
+			"littleroom/goblinpack_vol2/vox_king_grunt_3"
+		 ]
+	},
+   "littleroom.goblinpackvol2.vox_king_swing":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/vox_king_swing_1",
+			"littleroom/goblinpack_vol2/vox_king_swing_2",
+			"littleroom/goblinpack_vol2/vox_king_swing_3"
+		 ]
+	},
+   "littleroom.goblinpackvol2.vox_shaman_laugh":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/vox_shaman_laugh_1",
+			"littleroom/goblinpack_vol2/vox_shaman_laugh_2",
+			"littleroom/goblinpack_vol2/vox_shaman_laugh_3"
+		 ]
+	},
+   "littleroom.goblinpackvol2.vox_shaman_spell":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/vox_shaman_spell"
+		 ]
+	},
+   "littleroom.goblinpackvol2.king_leap":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/king_leap"
+		 ]
+	},
+   "littleroom.goblinpackvol2.king_land":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/king_land"
+		 ]
+	},
+   "littleroom.goblinpackvol2.king_death":{
+		 "sounds": [
+			"littleroom/goblinpack_vol2/king_death"
+		 ]
+	}
+}

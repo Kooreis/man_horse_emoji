@@ -1,0 +1,134 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/carrot_on_a_stick"
+  },
+	"overrides": [
+		{
+			"predicate": { "custom_model_data": 11341 },
+			"model": "littleroom_goblin_pack_vol2:gp2_goblin_bow"
+		},
+		{
+			"predicate": { "custom_model_data": 11342 },
+			"model": "littleroom_goblin_pack_vol2:gp2_goblin_club"
+		},
+		{
+			"predicate": { "custom_model_data": 11343 },
+			"model": "littleroom_goblin_pack_vol2:gp2_goblin_frying_pan"
+		},
+		{
+			"predicate": { "custom_model_data": 11344 },
+			"model": "littleroom_goblin_pack_vol2:gp2_goblin_knife"
+		},
+		{
+			"predicate": { "custom_model_data": 11345 },
+			"model": "littleroom_goblin_pack_vol2:gp2_goblin_wooden_spoon"
+		},
+		{
+			"predicate": { "custom_model_data": 11346 },
+			"model": "littleroom_goblin_pack_vol2:gp2_goblin_broken_pitchfork"
+		},
+		{
+			"predicate": { "custom_model_data": 11347 },
+			"model": "littleroom_goblin_pack_vol2:gp2_goblin_shaman_staff"
+		},
+		{
+			"predicate": { "custom_model_data": 11348 },
+			"model": "littleroom_goblin_pack_vol2:gp2_goblin_king_axe"
+		},
+		{
+			"predicate": { "custom_model_data": 1 },
+			"model": "littleroom_incubator:eggs/mole_egg"
+		},
+		{
+			"predicate": { "custom_model_data": 2 },
+			"model": "littleroom_incubator:eggs/sheep_egg"
+		},
+		{
+			"predicate": { "custom_model_data": 3 },
+			"model": "littleroom_incubator:eggs/jelly_egg"
+		},
+		{
+			"predicate": { "custom_model_data": 4 },
+			"model": "littleroom_incubator:eggs/froggie_egg"
+		},
+		{
+			"predicate": { "custom_model_data": 5 },
+			"model": "littleroom_incubator:eggs/cow_egg"
+		},
+		{
+			"predicate": { "custom_model_data": 6 },
+			"model": "littleroom_incubator:eggs/bunny_egg"
+		},
+		{
+			"predicate": { "custom_model_data": 7 },
+			"model": "littleroom_incubator:eggs/bat_egg"
+		},
+		{
+			"predicate": { "custom_model_data": 8 },
+			"model": "littleroom_incubator:items/pet_candy"
+		},
+		{
+			"predicate": { "custom_model_data": 9 },
+			"model": "littleroom_incubator:icons/floppy_bunny"
+		},
+		{
+			"predicate": { "custom_model_data": 10 },
+			"model": "littleroom_incubator:icons/fluffy_sheep"
+		},
+		{
+			"predicate": { "custom_model_data": 11 },
+			"model": "littleroom_incubator:icons/happy_cow"
+		},
+		{
+			"predicate": { "custom_model_data": 12 },
+			"model": "littleroom_incubator:icons/king_jelly"
+		},
+		{
+			"predicate": { "custom_model_data": 13 },
+			"model": "littleroom_incubator:icons/miner_mole"
+		},
+		{
+			"predicate": { "custom_model_data": 14 },
+			"model": "littleroom_incubator:icons/sleepy_froggie"
+		},
+		{
+			"predicate": { "custom_model_data": 15 },
+			"model": "littleroom_incubator:icons/fuzzy_bat"
+		},
+		{
+			"predicate": { "custom_model_data": 16 },
+			"model": "littleroom_incubator:cards/lrd_bunny_card"
+		},
+		{
+			"predicate": { "custom_model_data": 17 },
+			"model": "littleroom_incubator:cards/lrd_cow_card"
+		},
+		{
+			"predicate": { "custom_model_data": 18 },
+			"model": "littleroom_incubator:cards/lrd_froggie_card"
+		},
+		{
+			"predicate": { "custom_model_data": 19 },
+			"model": "littleroom_incubator:cards/lrd_jelly_card"
+		},
+		{
+			"predicate": { "custom_model_data": 20 },
+			"model": "littleroom_incubator:cards/lrd_mole_card"
+		},
+		{
+			"predicate": { "custom_model_data": 21 },
+			"model": "littleroom_incubator:cards/lrd_sheep_card"
+		},
+		{
+			"predicate": { "custom_model_data": 22 },
+			"model": "littleroom_incubator:cards/lrd_bat_card"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 933
+			},
+			"model": "lssmp:item/fragment"
+		}
+	]
+}

@@ -1,0 +1,112 @@
+{
+   "littleroom.parryknight.death":{
+		 "sounds": [
+			"littleroom/parryknight/death"
+		 ]
+	},
+   "littleroom.parryknight.grunt1":{
+		 "sounds": [
+			"littleroom/parryknight/grunt1"
+		 ]
+	},
+   "littleroom.parryknight.grunt2":{
+		 "sounds": [
+			"littleroom/parryknight/grunt2"
+		 ]
+	},
+   "littleroom.parryknight.grunt3":{
+		 "sounds": [
+			"littleroom/parryknight/grunt3"
+		 ]
+	},
+   "littleroom.parryknight.grunt4":{
+		 "sounds": [
+			"littleroom/parryknight/grunt4"
+		 ]
+	},
+   "littleroom.parryknight.grunt5":{
+		 "sounds": [
+			"littleroom/parryknight/grunt5"
+		 ]
+	},
+   "littleroom.parryknight.grunt6":{
+		 "sounds": [
+			"littleroom/parryknight/grunt6"
+		 ]
+	},
+   "littleroom.parryknight.impact1":{
+		 "sounds": [
+			"littleroom/parryknight/impact1"
+		 ]
+	},
+   "littleroom.parryknight.impact2":{
+		 "sounds": [
+			"littleroom/parryknight/impact2"
+		 ]
+	},
+   "littleroom.parryknight.impact3":{
+		 "sounds": [
+			"littleroom/parryknight/impact3"
+		 ]
+	},
+   "littleroom.parryknight.impact4":{
+		 "sounds": [
+			"littleroom/parryknight/impact4"
+		 ]
+	},
+   "littleroom.parryknight.parried":{
+		 "sounds": [
+			"littleroom/parryknight/parried"
+		 ]
+	},
+   "littleroom.parryknight.shield_1":{
+		 "sounds": [
+			"littleroom/parryknight/shield_1"
+		 ]
+	},
+   "littleroom.parryknight.shield_2":{
+		 "sounds": [
+			"littleroom/parryknight/shield_2"
+		 ]
+	},
+   "littleroom.parryknight.shield_bash_1":{
+		 "sounds": [
+			"littleroom/parryknight/shield_bash_1"
+		 ]
+	},
+   "littleroom.parryknight.shield_bash_2":{
+		 "sounds": [
+			"littleroom/parryknight/shield_bash_2"
+		 ]
+	},
+   "littleroom.parryknight.swing1":{
+		 "sounds": [
+			"littleroom/parryknight/swing1"
+		 ]
+	},
+   "littleroom.parryknight.swing2":{
+		 "sounds": [
+			"littleroom/parryknight/swing2"
+		 ]
+	},
+   "littleroom.parryknight.swing3":{
+		 "sounds": [
+			"littleroom/parryknight/swing3"
+		 ]
+	},
+   "littleroom.parryknight.swing4":{
+		 "sounds": [
+			"littleroom/parryknight/swing4"
+		 ]
+	},
+   "littleroom.parryknight.swing5":{
+		 "sounds": [
+			"littleroom/parryknight/swing5"
+		 ]
+	},
+   "littleroom.parryknight.death_ground":{
+		 "sounds": [
+			"littleroom/parryknight/death_ground"
+		 ]
+	}
+}

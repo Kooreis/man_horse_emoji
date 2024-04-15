@@ -1,0 +1,81 @@
+{
+   "littleroom.yukio.breath":{
+		 "sounds": [
+			"littleroom/yukio/yukio_breath"
+		 ]
+	},
+   "littleroom.yukio.crystal_break":{
+		 "sounds": [
+			"littleroom/yukio/yukio_crystal_break"
+		 ]
+	},
+   "littleroom.yukio.falling_crystal_spawn":{
+		 "sounds": [
+			"littleroom/yukio/yukio_falling_crystal_spawn"
+		 ]
+	},
+   "littleroom.yukio.icecrystal_idle":{
+		 "sounds": [
+			"littleroom/yukio/yukio_icecrystal_idle"
+		 ]
+	},
+   "littleroom.yukio.icecrystal_spawn":{
+		 "sounds": [
+			"littleroom/yukio/yukio_icecrystal_spawn_1",
+			"littleroom/yukio/yukio_icecrystal_spawn_2",
+			"littleroom/yukio/yukio_icecrystal_spawn_3",
+			"littleroom/yukio/yukio_icecrystal_spawn_4"
+		 ]
+	},
+   "littleroom.yukio.impact":{
+		 "sounds": [
+			"littleroom/yukio/yukio_impact1",
+			"littleroom/yukio/yukio_impact2",
+			"littleroom/yukio/yukio_impact3",
+			"littleroom/yukio/yukio_impact4"
+		 ]
+	},
+   "littleroom.yukio.poof":{
+		 "sounds": [
+			"littleroom/yukio/yukio_poof"
+		 ]
+	},
+   "littleroom.yukio.roar":{
+		 "sounds": [
+			"littleroom/yukio/yukio_roar_1",
+			"littleroom/yukio/yukio_roar_2"
+		 ]
+	},
+   "littleroom.yukio.sleep":{
+		 "sounds": [
+			"littleroom/yukio/yukio_sleep"
+		 ]
+	},
+   "littleroom.yukio.stun":{
+		 "sounds": [
+			"littleroom/yukio/yukio_stun"
+		 ]
+	},
+   "littleroom.yukio.stun_landing":{
+		 "sounds": [
+			"littleroom/yukio/yukio_stun_landing"
+		 ]
+	},
+   "littleroom.yukio.vox":{
+		 "sounds": [
+			"littleroom/yukio/yukio_vox_1",
+			"littleroom/yukio/yukio_vox_2",
+			"littleroom/yukio/yukio_vox_3"
+		 ]
+	},
+   "littleroom.yukio.wing_attack":{
+		 "sounds": [
+			"littleroom/yukio/yukio_wing_attack"
+		 ]
+	},
+   "littleroom.yukio.yukio_wingflap":{
+		 "sounds": [
+			"littleroom/yukio/yukio_wingflap"
+		 ]
+	}
+}

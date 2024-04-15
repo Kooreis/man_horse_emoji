@@ -1,0 +1,108 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/ink_sac"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "littleroom_kurrot:kur_slash_h"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "littleroom_kurrot:kur_slash_tiltleft"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "littleroom_kurrot:kur_slash_tiltright"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "littleroom_kurrot:kur_glaive"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "littleroom_bufobufo:bufo_bufo_bubbles"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "littleroom_goblin_pack_vol2:gp2_goblin_rock"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "littleroom_goblin_pack_vol2:gp2_goblin_shaman_mask"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "littleroom_gryffin:mcpets_icon/gryffin_icon"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "littleroom_gryffin:mcpets_icon/gryffin_corvid_icon"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "littleroom_wendigo:parka_helmet"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "littleroom_bulb_vol2:bulbcoin"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "littleroom_bulb_vol2:bulb_amethyst_icon"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "littleroom_bulb_vol2:bulb_crimsonspore_icon"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "littleroom_bulb_vol2:bulb_dripleaf_icon"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "littleroom_bulb_vol2:bulb_lilypad_icon"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "littleroom_bulb_vol2:bulb_warpedfungus_icon"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "littleroom_incubator:items/bunny_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "littleroom_incubator:items/cow_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "littleroom_incubator:items/froggie_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "littleroom_incubator:items/jelly_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "littleroom_incubator:items/mole_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "littleroom_incubator:items/sheep_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "littleroom_incubator:items/bat_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "littleroom_incubator:items/petcoin"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "littleroom_nuke:throwable_nuke"
+    }
+  ]
+}

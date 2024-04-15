@@ -1,0 +1,12 @@
+{
+   "littleroom.nuke.detonate":{
+		 "sounds": [
+			"littleroom/throwable_nuke/nuke_detonate"
+		 ]
+	},
+   "littleroom.nuke.whistle":{
+		 "sounds": [
+			"littleroom/throwable_nuke/nuke_whistle"
+		 ]
+	}
+}

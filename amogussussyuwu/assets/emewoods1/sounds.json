@@ -1,0 +1,44 @@
+{ "custom.enchantedwoods1.emweaponclash": { "category": "hostile", "sounds": [ { "name": "custom/mobs/embandit1/emweaponclash1" }, { "name": "custom/mobs/embandit1/emweaponclash2" } ], "subtitle": "Weapon clash" },
+"custom.enchantedwoods1.macehit": { "category": "hostile", "sounds": [ { "name": "custom/mobs/embandit1/macehit1" }, { "name": "custom/mobs/embandit1/macehit2" } ], "subtitle": "Brutal hit" }, 
+"custom.enchantedwoods1.macewindup": { "category": "hostile", "sounds": [ { "name": "custom/mobs/embandit1/macewindup1" }, { "name": "custom/mobs/embandit1/macewindup2" } ] }, 
+"custom.enchantedwoods1.attackwindup": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenhero/attackwindup1" }, { "name": "custom/mobs/fallenhero/attackwindup2" }, { "name": "custom/mobs/fallenhero/attackwindup3" }, { "name": "custom/mobs/fallenhero/attackwindup4" } ], "subtitle": "Strong blow", "attenuation_distance": "0.8"  }, 
+
+"custom.enchantedwoods1.cpacidcast": { "category": "hostile", "sounds": [ { "name": "custom/mobs/corruptedpuker/cpacidcast1" }, { "name": "custom/mobs/corruptedpuker/cpacidcast2" } ], "subtitle": "Acid attack" }, 
+"custom.enchantedwoods1.cpacid_hit": { "category": "hostile", "sounds": [ { "name": "custom/mobs/corruptedpuker/cpacid_hit1" }, { "name": "custom/mobs/corruptedpuker/cpacid_hit2" } ], "subtitle": "Acid corrosion" }, 
+
+"custom.enchantedwoods1.shaman_efforta": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/shaman_efforta1" }, { "name": "custom/enchantedwoods/shaman_efforta2" }, { "name": "custom/enchantedwoods/shaman_efforta3" }, { "name": "custom/enchantedwoods/shaman_efforta4" } ] }, 
+"custom.enchantedwoods1.shaman_death": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/shaman_death1" }, { "name": "custom/enchantedwoods/shaman_death2" }, { "name": "custom/enchantedwoods/shaman_death3" } ] }, 
+"custom.enchantedwoods1.shaman_effortb": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/shaman_effortb1" }, { "name": "custom/enchantedwoods/shaman_effortb2" }, { "name": "custom/enchantedwoods/shaman_effortb3" }, { "name": "custom/enchantedwoods/shaman_effortb4" } ] }, 
+"custom.enchantedwoods1.shaman_hurt": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/shaman_hurt1" }, { "name": "custom/enchantedwoods/shaman_hurt2" }, { "name": "custom/enchantedwoods/shaman_hurt3" }, { "name": "custom/enchantedwoods/shaman_hurt4" } ] }, 
+"custom.enchantedwoods1.shaman_idle": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/shaman_idle1" }, { "name": "custom/enchantedwoods/shaman_idle2" }, { "name": "custom/enchantedwoods/shaman_idle3" }, { "name": "custom/enchantedwoods/shaman_idle4" } ] }, 
+"custom.enchantedwoods1.shaman_rage": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/shaman_rage1" }, { "name": "custom/enchantedwoods/shaman_rage2" }, { "name": "custom/enchantedwoods/shaman_rage3" } ] }, 
+"custom.enchantedwoods1.directionsword": { "category": "hostile", "sounds": [ { "name": "custom/mobs/cromoknightboss/directioncast1" }, { "name": "custom/mobs/cromoknightboss/directioncast2" } ] }, 
+
+"custom.enchantedwoods1.wood_impact1": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/wood_impact1" } ] }, 
+"custom.enchantedwoods1.heavy_wood_hit": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/heavy_wood_hit1" }, { "name": "custom/enchantedwoods/heavy_wood_hit2" }, { "name": "custom/enchantedwoods/heavy_wood_hit3" } ] }, 
+
+"custom.enchantedwoods1.cast_cue": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/cast_cue" } ], "subtitle": "Magical cast" }, 
+"custom.enchantedwoods1.castwind1": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/shaman_castwind" } ], "subtitle": "Magical cast" }, 
+"custom.enchantedwoods1.tornado_loop": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/tornado_loop1" }, { "name": "custom/enchantedwoods/tornado_loop2" }, { "name": "custom/enchantedwoods/tornado_loop3" } ] }, 
+"custom.enchantedwoods1.healing_cast": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/healing_cast1" }, { "name": "custom/enchantedwoods/healing_cast2" }, { "name": "custom/enchantedwoods/healing_cast3" } ] }, 
+"custom.enchantedwoods1.healing_hit": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/healing_hit1" }, { "name": "custom/enchantedwoods/healing_hit2" } ] }, 
+"custom.enchantedwoods1.poison_cast": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/poison_cast1" }, { "name": "custom/enchantedwoods/poison_cast2" } ] }, 
+
+"custom.enchantedwoods1.dyerftum_chargepuke": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/dyerftum_chargepuke1" }, { "name": "custom/enchantedwoods/dyerftum_chargepuke2" }, { "name": "custom/enchantedwoods/dyerftum_chargepuke3" } ] }, 
+"custom.enchantedwoods1.attackhit": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/attack_hit" } ], "subtitle": "Wood strike" }, 
+
+"custom.enchantedwoods1.dyerftum_idle": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/dyerftum_idle1" }, { "name": "custom/enchantedwoods/dyerftum_idle2" }, { "name": "custom/enchantedwoods/dyerftum_idle3" }, { "name": "custom/enchantedwoods/dyerftum_idle4" } ] }, 
+"custom.enchantedwoods1.dyerftum_rage": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/dyerftum_rage1" }, { "name": "custom/enchantedwoods/dyerftum_rage2" }, { "name": "custom/enchantedwoods/dyerftum_rage3" }, { "name": "custom/enchantedwoods/dyerftum_rage4" } ] }, 
+"custom.enchantedwoods1.dyerftum_efforta": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/dyerftum_efforta1" }, { "name": "custom/enchantedwoods/dyerftum_efforta2" }, { "name": "custom/enchantedwoods/dyerftum_efforta3" }, { "name": "custom/enchantedwoods/dyerftum_efforta4" } ] }, 
+"custom.enchantedwoods1.dyerftum_effortb": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/dyerftum_effortb1" }, { "name": "custom/enchantedwoods/dyerftum_effortb2" }, { "name": "custom/enchantedwoods/dyerftum_effortb3" }, { "name": "custom/enchantedwoods/dyerftum_effortb4" } ] }, 
+"custom.enchantedwoods1.dyerftum_death": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/dyerftum_death1" }, { "name": "custom/enchantedwoods/dyerftum_death2" }, { "name": "custom/enchantedwoods/dyerftum_death3" }, { "name": "custom/enchantedwoods/dyerftum_death4" } ] }, 
+"custom.enchantedwoods1.dyerftum_hurt": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/dyerftum_hurt1" }, { "name": "custom/enchantedwoods/dyerftum_hurt2" }, { "name": "custom/enchantedwoods/dyerftum_hurt3" }, { "name": "custom/enchantedwoods/dyerftum_hurt4" } ] }, 
+"custom.enchantedwoods1.dyerftum_hurtbad": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/dyerftum_hurtbad1" }, { "name": "custom/enchantedwoods/dyerftum_hurtbad2" }, { "name": "custom/enchantedwoods/dyerftum_hurtbad3" } ] }, 
+"custom.enchantedwoods1.wood_hit": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/wood_hit1" }, { "name": "custom/enchantedwoods/wood_hit2" }, { "name": "custom/enchantedwoods/wood_hit3" } ] }, 
+"custom.enchantedwoods1.wood_cracks": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/wood_cracks1" }, { "name": "custom/enchantedwoods/wood_cracks2" } ] }, 
+"custom.enchantedwoods1.wood_windup": { "category": "hostile", "sounds": [ { "name": "custom/enchantedwoods/wood_windup1" }, { "name": "custom/enchantedwoods/wood_windup2" } ] }, 
+
+
+"custom.spell.landshockwave": { "category": "hostile", "sounds": [ { "name": "custom/spell/fallenhero/landshockwave1" }, { "name": "custom/spell/fallenhero/landshockwave2" }, { "name": "custom/spell/fallenhero/landshockwave3" } ] }, 
+"custom.enchantedwoods1.attack4reaper": { "category": "hostile", "sounds": [ { "name": "custom/spell/fallenreaper/attack4reaper1" }, { "name": "custom/spell/fallenhero/attack4reaper2" }, { "name": "custom/spell/fallenhero/attack4reaper3" } ], "subtitle": "Strong swing" }
+}

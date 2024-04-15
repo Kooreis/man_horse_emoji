@@ -1,0 +1,124 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"3": "modelengine:entity/gp2_goblin_warrior_parts"
+	},
+	"elements": [
+		{
+			"from": [4.11794, 11.69087, 5.41196],
+			"to": [12.11794, 19.69087, 6.21196],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.11794, 3.02942, 6.58254]},
+			"faces": {
+				"north": {"uv": [1.25, 1.25, 0, 2.5], "rotation": 180, "texture": "#3"},
+				"east": {"uv": [10.25, 0.625, 11.5, 0.75], "rotation": 270, "texture": "#3"},
+				"south": {"uv": [1.25, 1.25, 0, 0], "texture": "#3"},
+				"west": {"uv": [10.25, 8.5, 11.5, 8.625], "rotation": 90, "texture": "#3"},
+				"up": {"uv": [10.125, 9.375, 11.375, 9.5], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [10.25, 3.5, 11.5, 3.625], "texture": "#3"}
+			}
+		},
+		{
+			"from": [3.31794, 10.89087, 5.41196],
+			"to": [4.11794, 20.49087, 8.61196],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.11794, 3.02942, 6.58254]},
+			"faces": {
+				"north": {"uv": [3.125, 10.25, 3, 11.75], "rotation": 180, "texture": "#3"},
+				"east": {"uv": [7.875, 6.25, 9.375, 6.75], "rotation": 270, "texture": "#3"},
+				"south": {"uv": [2.25, 10.125, 2.125, 8.625], "texture": "#3"},
+				"west": {"uv": [7.875, 6.75, 9.375, 7.25], "rotation": 90, "texture": "#3"},
+				"up": {"uv": [9.5, 10.375, 9.625, 10.875], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [2.5, 10.625, 2.625, 11.125], "texture": "#3"}
+			}
+		},
+		{
+			"from": [4.11794, 19.69087, 5.41196],
+			"to": [12.11794, 20.49087, 8.61196],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.11794, 3.02942, 6.58254]},
+			"faces": {
+				"north": {"uv": [11.625, 7.75, 10.375, 7.875], "rotation": 180, "texture": "#3"},
+				"east": {"uv": [2.625, 10.875, 2.75, 11.375], "rotation": 270, "texture": "#3"},
+				"south": {"uv": [11.625, 4.625, 10.375, 4.5], "texture": "#3"},
+				"west": {"uv": [2.75, 10.875, 2.875, 11.375], "rotation": 90, "texture": "#3"},
+				"up": {"uv": [8.25, 1, 9.5, 1.5], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [8.25, 1.5, 9.5, 2], "texture": "#3"}
+			}
+		},
+		{
+			"from": [4.11794, 10.89087, 5.41196],
+			"to": [12.11794, 11.69087, 8.61196],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.11794, 3.02942, 6.58254]},
+			"faces": {
+				"north": {"uv": [11.625, 8, 10.375, 8.125], "rotation": 180, "texture": "#3"},
+				"east": {"uv": [10.875, 2.75, 11, 3.25], "rotation": 270, "texture": "#3"},
+				"south": {"uv": [11.625, 8, 10.375, 7.875], "texture": "#3"},
+				"west": {"uv": [2.875, 10.875, 3, 11.375], "rotation": 90, "texture": "#3"},
+				"up": {"uv": [8.25, 2, 9.5, 2.5], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [7.875, 8.25, 9.125, 8.75], "texture": "#3"}
+			}
+		},
+		{
+			"from": [6.91794, 2.09087, 7.01196],
+			"to": [9.31794, 10.89087, 8.61196],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.11794, 3.02942, 6.58254]},
+			"faces": {
+				"north": {"uv": [4.875, 8.375, 4.5, 9.75], "rotation": 180, "texture": "#3"},
+				"east": {"uv": [9.5, 2.25, 10.875, 2.5], "rotation": 270, "texture": "#3"},
+				"south": {"uv": [3.125, 9.375, 2.75, 8], "texture": "#3"},
+				"west": {"uv": [9.5, 3.625, 10.875, 3.875], "rotation": 90, "texture": "#3"},
+				"up": {"uv": [9.125, 0.75, 9.5, 1], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [8.625, 9.875, 9, 10.125], "texture": "#3"}
+			}
+		},
+		{
+			"from": [12.11794, 10.89087, 5.41196],
+			"to": [12.91794, 20.49087, 8.61196],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.11794, 3.02942, 6.58254]},
+			"faces": {
+				"north": {"uv": [8.25, 10.25, 8.125, 11.75], "rotation": 180, "texture": "#3"},
+				"east": {"uv": [7.875, 7.25, 9.375, 7.75], "rotation": 270, "texture": "#3"},
+				"south": {"uv": [8.125, 11.75, 8, 10.25], "texture": "#3"},
+				"west": {"uv": [7.875, 7.75, 9.375, 8.25], "rotation": 90, "texture": "#3"},
+				"up": {"uv": [7.5, 10.625, 7.625, 11.125], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [4, 10.75, 4.125, 11.25], "texture": "#3"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 19, 0],
+			"translation": [0, -1.25, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 19, 0],
+			"translation": [0, -1.25, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [-26, 1, 0],
+			"translation": [1.5, -1, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-26, 1, 0],
+			"translation": [1.5, -1, 0]
+		},
+		"ground": {
+			"rotation": [40, 0, 0],
+			"translation": [0, 4, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [0, 0, -44],
+			"translation": [-2.25, -2.5, 0],
+			"scale": [0.65, 0.65, 0.65]
+		}
+	},
+	"groups": [
+		{
+			"name": "frying_pan",
+			"origin": [6.66692, 4.63385, 15.48879],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5]
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+   "littleroom.wendigo.bite":{
+		 "sounds": [
+			"littleroom/wendigo/bite_1",
+			"littleroom/wendigo/bite_2"
+		 ]
+	},
+   "littleroom.wendigo.growl":{
+		 "sounds": [
+			"littleroom/wendigo/growl_1",
+			"littleroom/wendigo/growl_2",
+			"littleroom/wendigo/growl_3",
+			"littleroom/wendigo/growl_4"
+		 ]
+	},
+   "littleroom.wendigo.grunt":{
+		 "sounds": [
+			"littleroom/wendigo/grunt_1",
+			"littleroom/wendigo/grunt_2",
+			"littleroom/wendigo/grunt_3"
+		 ]
+	},
+   "littleroom.wendigo.heart_beat":{
+		 "sounds": [
+			"littleroom/wendigo/heart_beat"
+		 ]
+	},
+   "littleroom.wendigo.heart_death":{
+		 "sounds": [
+			"littleroom/wendigo/heart_death"
+		 ]
+	},
+   "littleroom.wendigo.hurt":{
+		 "sounds": [
+			"littleroom/wendigo/hurt_1",
+			"littleroom/wendigo/hurt_2"
+		 ]
+	},
+   "littleroom.wendigo.roar":{
+		 "sounds": [
+			"littleroom/wendigo/roar_1",
+			"littleroom/wendigo/roar_2",
+			"littleroom/wendigo/roar_3"
+		 ]
+	},
+   "littleroom.wendigo.spawn":{
+		 "sounds": [
+			"littleroom/wendigo/spawn"
+		 ]
+	},
+   "littleroom.wendigo.swing":{
+		 "sounds": [
+			"littleroom/wendigo/swing_1",
+			"littleroom/wendigo/swing_2"
+		 ]
+	},
+   "littleroom.wendigo.step":{
+		 "sounds": [
+			"littleroom/wendigo/step_1",
+			"littleroom/wendigo/step_2",
+			"littleroom/wendigo/step_3",
+			"littleroom/wendigo/step_4"
+		 ]
+	},
+   "littleroom.wendigo.death":{
+		 "sounds": [
+			"littleroom/wendigo/death"
+		 ]
+	}
+}

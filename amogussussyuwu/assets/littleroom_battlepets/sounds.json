@@ -1,0 +1,52 @@
+{
+   "littleroom.battlepets.impact1":{
+		 "sounds": [
+			"littleroom/battlepets/impact1"
+		 ]
+	},
+   "littleroom.battlepets.impact2":{
+		 "sounds": [
+			"littleroom/battlepets/impact2"
+		 ]
+	},
+   "littleroom.battlepets.impact3":{
+		 "sounds": [
+			"littleroom/battlepets/impact3"
+		 ]
+	},
+   "littleroom.battlepets.impact4":{
+		 "sounds": [
+			"littleroom/battlepets/impact4"
+		 ]
+	},
+   "littleroom.battlepets.swing1":{
+		 "sounds": [
+			"littleroom/battlepets/swing1"
+		 ]
+	},
+   "littleroom.battlepets.swing2":{
+		 "sounds": [
+			"littleroom/battlepets/swing2"
+		 ]
+	},
+   "littleroom.battlepets.swing3":{
+		 "sounds": [
+			"littleroom/battlepets/swing3"
+		 ]
+	},
+   "littleroom.battlepets.swing4":{
+		 "sounds": [
+			"littleroom/battlepets/swing4"
+		 ]
+	},
+   "littleroom.battlepets.swing5":{
+		 "sounds": [
+			"littleroom/battlepets/swing5"
+		 ]
+	},
+   "littleroom.battlepets.levelup":{
+		 "sounds": [
+			"littleroom/battlepets/levelup"
+		 ]
+	}
+}

@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/template_spawn_egg",
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "littleroom_goblin_pack_vol2:gp2_decor_torch"},
+		{
+			"predicate": { "custom_model_data": 2 },
+			"model": "littleroom_goblin_pack_vol2:gp2_decor_weapon_rack"
+		},
+		{
+			"predicate": { "custom_model_data": 1 },
+			"model": "littleroom_incubator:items/lrd_incubator"
+		}
+	]
+}

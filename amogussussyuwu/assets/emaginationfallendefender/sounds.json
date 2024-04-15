@@ -1,0 +1,23 @@
+{ "custom.fallendefender.spawnb": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/defenderspawnb" } ], "subtitle": "Spectral Incarnation", "attenuation_distance": "1"  }, 
+"custom.spell.upperwave": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/upperwave" } ], "subtitle": "Magical shockwave", "attenuation_distance": "16"  },
+"custom.spell.frontwave": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/frontwave" } ], "subtitle": "Magical shockwave", "attenuation_distance": "16"  },
+"custom.spell.downwave": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/downwave" } ], "subtitle": "Magical shockwave", "attenuation_distance": "16"  },
+"custom.spell.atk6wave": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/atk6wave" } ], "subtitle": "Magical shockwave", "attenuation_distance": "16"  },
+
+"custom.spell.unsheath": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/sfeunsheath1" }, { "name": "custom/mobs/fallendefender/sfeunsheath2" } ], "subtitle": "Soulfire burst" }, 
+"custom.spell.sheath": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/sfesheath1" }, { "name": "custom/mobs/fallendefender/sfesheath2" } ], "subtitle": "Soulfire burst" }, 
+"custom.spell.svordenhit": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/svordenhit1" }, { "name": "custom/mobs/fallendefender/svordenhit2" } ], "subtitle": "Soulfire burst" }, 
+"custom.spell.sfetick": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/sfetick1" }, { "name": "custom/mobs/fallendefender/sfetick2" }, { "name": "custom/mobs/fallendefender/sfetick3" } ], "subtitle": "Soulfire sword" }, 
+"custom.spell.sfeattack": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/sfeattack1" }, { "name": "custom/mobs/fallendefender/sfeattack2" } ], "subtitle": "Soulfire blade" }, 
+
+"custom.spell.sfeproj_cast": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/sfeproj_cast1" }, { "name": "custom/mobs/fallendefender/sfeproj_cast2" } ], "subtitle": "Soulfire cast" }, 
+"custom.spell.sfeproj_launch": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/sfeproj_launch1" }, { "name": "custom/mobs/fallendefender/sfeproj_launch2" } ], "subtitle": "Soulfire Projectile fired" }, 
+"custom.spell.sfeproj_hit": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/sfeproj_hit1" }, { "name": "custom/mobs/fallendefender/sfeproj_hit2" } ], "subtitle": "Soulfire Projectile hit" }, 
+"custom.spell.sfeprojtick": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/sfeproj_tick1" }, { "name": "custom/mobs/fallendefender/sfeproj_tick2" }, { "name": "custom/mobs/fallendefender/sfeproj_tick3" }, { "name": "custom/mobs/fallendefender/sfeproj_tick4" } ], "subtitle": "Soulfire projectile" }, 
+
+"custom.spell.ffexecute": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/ffexecute1" }, { "name": "custom/mobs/fallendefender/ffexecute2" } ], "subtitle": "Soulfire burst" }, 
+"custom.spell.ffend": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/ffend1" }, { "name": "custom/mobs/fallendefender/ffend2" } ], "subtitle": "Soulfire burst" }, 
+"custom.spell.fftick": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/fftick1" }, { "name": "custom/mobs/fallendefender/fftick2" }, { "name": "custom/mobs/fallendefender/fftick3" } ], "subtitle": "Soulfire forcefield" }, 
+
+"custom.fallendefender.death": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallendefender/fdefenderdeatharmor" } ], "subtitle": "Empty armor falls", "attenuation_distance": "1"  }
+}

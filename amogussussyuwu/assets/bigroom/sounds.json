@@ -1,0 +1,17 @@
+{
+   "bigroom.lich":{
+		 "sounds": [
+			"bigroom/lich"
+		 ]
+	},
+   "bigroom.chug":{
+		 "sounds": [
+			"bigroom/chug"
+		 ]
+	},
+   "bigroom.victory":{
+		 "sounds": [
+			"bigroom/victory"
+		 ]
+	}
+}

@@ -1,0 +1,73 @@
+{
+   "littleroom.magmawyrm.aggro_roar":{
+		 "sounds": [
+			"littleroom/magmawyrm/aggro_roar"
+		 ]
+	},
+   "littleroom.magmawyrm.death_roar":{
+		 "sounds": [
+			"littleroom/magmawyrm/death_roar"
+		 ]
+	},
+   "littleroom.magmawyrm.idle":{
+		 "sounds": [
+			"littleroom/magmawyrm/idle_1",
+			"littleroom/magmawyrm/idle_2",
+			"littleroom/magmawyrm/idle_3",
+			"littleroom/magmawyrm/idle_4",
+			"littleroom/magmawyrm/idle_5"
+		 ]
+	},
+   "littleroom.magmawyrm.pain_roar":{
+		 "sounds": [
+			"littleroom/magmawyrm/pain_roar"
+		 ]
+	},
+   "littleroom.magmawyrm.roar":{
+		 "sounds": [
+			"littleroom/magmawyrm/roar_1",
+			"littleroom/magmawyrm/roar_2"
+		 ]
+	},
+   "littleroom.magmawyrm.part_explode":{
+		 "sounds": [
+			"littleroom/magmawyrm/part_explode"
+		 ]
+	},
+   "littleroom.magmawyrm.bite":{
+		 "sounds": [
+			"littleroom/magmawyrm/bite"
+		 ]
+	},
+   "littleroom.magmawyrm.leap":{
+		 "sounds": [
+			"littleroom/magmawyrm/leap_1",
+			"littleroom/magmawyrm/leap_2",
+			"littleroom/magmawyrm/leap_3"
+		 ]
+	},
+   "littleroom.magmawyrm.whoosh":{
+		 "sounds": [
+			"littleroom/magmawyrm/whoosh_1",
+			"littleroom/magmawyrm/whoosh_2",
+			"littleroom/magmawyrm/whoosh_3"
+		 ]
+	},
+   "littleroom.magmawyrm.leap_whoosh":{
+		 "sounds": [
+			"littleroom/magmawyrm/leap_whoosh_1",
+			"littleroom/magmawyrm/leap_whoosh_2"
+		 ]
+	},
+   "littleroom.magmawyrm.land":{
+		 "sounds": [
+			"littleroom/magmawyrm/land"
+		 ]
+	},
+   "littleroom.magmawyrm.path_break":{
+		 "sounds": [
+			"littleroom/magmawyrm/path_break_1",
+			"littleroom/magmawyrm/path_break_2"
+		 ]
+	}
+}
